@@ -4,23 +4,23 @@ date: 03-02-2025
 categories: [computers, maintenance]
 tags: [computers, tech, repair, maintenance]     # TAG names should always be lowercase
 image:
-  path: assets/images/pc_building/open_bench.jpg
+  path: /assets/images/pc_building/open_bench.jpg
   alt: Open Bench
 ---
 
 # This page talks about Tyler's experience building PCs and repairing computers.
 
-![Desktop View](assets/images/pc_building/first_build.jpg)
+![Desktop View](/assets/images/pc_building/first_build.jpg)
 _My First Build_
 
-![Desktop View](assets/images/pc_building/cabling.jpg)
+![Desktop View](/assets/images/pc_building/cabling.jpg)
 _Clean Cabling_
 
-![Desktop View](assets/images/pc_building/laptop_repair.jpg)
+![Desktop View](/assets/images/pc_building/laptop_repair.JPG)
 _Macbook Pro 2017 Dissasembly_
 
-![Desktop View](/assets/images/pc_building/cabling.jpg)
+![Desktop View](/assets/images/pc_building/open_bench.JPG)
 _Open Bench_
 
-![Desktop View](/assets/images/pc_building/completed_build.jpg)
+![Desktop View](/assets/images/pc_building/completed_build.JPG)
 _Complete Build_
