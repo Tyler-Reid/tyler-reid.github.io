@@ -22,5 +22,5 @@ _Macbook Pro 2017 Dissasembly_
 ![Desktop View](/assets/images/pc_building/open_bench.jpg)
 _Open Bench_
 
-![Desktop View](/assets/images/PC Building/completed_build.jpg)
+![Desktop View](/assets/images/pc_building/completed_build.jpg)
 _Complete Build_
