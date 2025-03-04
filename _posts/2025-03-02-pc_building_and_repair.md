@@ -6,3 +6,6 @@ tags: [computers, tech, repair, maintenance]     # TAG names should always be lo
 ---
 
 # This page talks about Tyler's experience building PCs and repairing computers.
+
+![Desktop View](/assets/images/PC Building/Open Bench.jpg){: width="4284" height="5712" }
+_Full screen width and center alignment_
