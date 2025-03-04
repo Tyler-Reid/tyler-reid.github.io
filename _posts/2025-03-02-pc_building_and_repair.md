@@ -10,10 +10,10 @@ image:
 
 # This page talks about Tyler's experience building PCs and repairing computers.
 
-![Desktop View](/assets/images/pc_building/first_build.JPG)
+![Desktop View](/assets/images/pc_building/first_build.jpg)
 _My First Build_
 
-![Desktop View](/assets/images/pc_building/cabling.JPG)
+![Desktop View](/assets/images/pc_building/cabling.jpg)
 _Clean Cabling_
 
 ![Desktop View](/assets/images/pc_building/laptop_repair.JPG)
