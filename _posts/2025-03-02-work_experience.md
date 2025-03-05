@@ -1,5 +1,5 @@
 ---
-title: Work Experience
+title: Intro and Resume
 date: 03-02-2025
 categories: [experience, resume]
 tags: [resume, experience, gis]     # TAG names should always be lowercase
