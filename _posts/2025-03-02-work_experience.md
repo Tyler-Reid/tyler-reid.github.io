@@ -14,11 +14,10 @@ In my current role, I’ve built a team capable of responding to challenging dat
 
 In my next role, I’m looking to continue learning and building experience in a project management/data centric role. 
 
-
-# See Below for Tyler's Work Experience
 ---
-# Alaska Department of Transportation & Public Facilities
-## Enterprise GIS Route Administrator
+
+# *Alaska Department of Transportation & Public Facilities*
+## **Enterprise GIS Route Administrator**
 ### 4.24 – Present
 -	Led a team of four, responsible for federal reporting, data collection, quality control, database management
 -	Coordinated massive roadway asset data collection program budgeted at over $1.5m
@@ -33,9 +32,9 @@ In my next role, I’m looking to continue learning and building experience in a
 -	Supported legislative data requests
 -	Implemented Data Reviewer checks in Enterprise GIS Environment
 -	Supported annual federal data reporting needs
+<br>
 
-
-## Highway Performance GIS Analyst
+## **Highway Performance GIS Analyst**
 ### 11.21 to 3.24
 -	Supports Federal Highway Administration's Highway Performance Monitoring System (HPMS)
 -	Collects and curates information regarding extent, condition, performance, use, and operating characteristics of roadways
@@ -45,9 +44,9 @@ In my next role, I’m looking to continue learning and building experience in a
 -	Weigh in Motion program administration - enhanced value of WIM project through new sensor testing in multi-year pilot project
 -	Regular meetings/collaboration with cross-department State of Alaska GIS users
 -	Tasking of remote sensing imagery and evaluating use in roadway asset data collection
+<br>
 
-
-## Traffic Data Planner
+## **Traffic Data Planner**
 ### 11.19 - 11.21
 -	Monitored over 50 Continuous Count Stations: sophisticated network of remote sensors configured to monitor traffic data 
 -	Provided continual analysis of volume, vehicle class, and tracked maintenance issues across sensor network
@@ -55,10 +54,10 @@ In my next role, I’m looking to continue learning and building experience in a
 -	Assisted in Maintenance of Continuous Count Stations, Deployed Miovision Camera Systems in the Field
 -	Geospatial training with Esri platforms
 -	Collaborated in developing Bethel Ice Road Traffic Monitor, developed with my team a radar-based system to monitor ice road traffic in remote, frozen location
+<br>
 
-
-# Alaska Brain Injury Network
-## Grant and Digital Resource Manager
+# *Alaska Brain Injury Network*
+## **Grant and Digital Resource Manager**
 ### 9.2016 - 10.2019
 -	Grant Management 
 -	Secured three year mini-grant program worth $600,000
@@ -66,6 +65,8 @@ In my next role, I’m looking to continue learning and building experience in a
 -	Coordinated and led monthly committee meetings
 -	Quarterly grant reporting to ensure health of program
 -	Monthly data entry and financials for in-house and State of Alaska record keeping
+<br>
 
-# Previous Experience 
-- Continuous employment back to 2006 in various sectors including local government service, agriculture, tourism, business development, retail and culinary 
+# *Previous Experience*
+- Continuous employment back to 2006 in various sectors including local government service, agriculture, tourism, business development, retail and culinary
+- Details avaialble upon request 
