@@ -4,7 +4,7 @@ date: 03-02-2025
 categories: [experience, resume]
 tags: [resume, experience, gis]     # TAG names should always be lowercase
 image:
-  path: /assets/images/projects/Data Truck.JPG/
+  path: /assets/images/projects/Data%20Truck.jpg/
   alt: Data Collection in the Field
 ---
 
