@@ -5,17 +5,14 @@ categories: [experience, resume]
 tags: [resume, experience, gis]     # TAG names should always be lowercase
 ---
 
-## I’m an experienced data professional dedicated to 
-generating value from data and maintaining geospatial 
-resources. I’m skilled in project management, GIS, data analytics, and accurate, timely reporting. 
-I have extensive experience in working with large datasets, creating a smooth data pipeline, and I’m committed to improving collaboration with others. 
+## I’m an experienced data professional dedicated to generating value from data and maintaining geospatial resources. I’m skilled in project management, GIS, data analytics, and accurate, timely reporting. I have extensive experience in working with large datasets, creating a smooth data pipeline, and I’m committed to improving collaboration with others. 
 
-In my current role, I’ve built a team capable of responding to challenging data requests, collaborating across the state, and creating new and exciting information for the Public.
+## In my current role, I’ve built a team capable of responding to challenging data requests, collaborating across the state, and creating new and exciting information for the Public.
 
-I’m looking to continue learning and building experience in a project management/data centric role. 
+## I’m looking to continue learning and building experience in a project management/data centric role. 
 
-### [Tyler's Resume PDF](/assets/docs/TYLER_HISLOP_RESUME_25.pdf)
-### [Tyler's Resume Word Doc](/assets/docs/TYLER_HISLOP_RESUME_25.docx)
+#### [Tyler's Resume PDF](/assets/docs/TYLER_HISLOP_RESUME_25.pdf)
+#### [Tyler's Resume Word Doc](/assets/docs/TYLER_HISLOP_RESUME_25.docx)
 
 ---
 
