@@ -12,7 +12,9 @@ I have extensive experience in working with large datasets, creating a smooth da
 
 In my current role, I’ve built a team capable of responding to challenging data requests, collaborating across the state, and creating new and exciting information for the Public.
 
-In my next role, I’m looking to continue learning and building experience in a project management/data centric role. 
+I’m looking to continue learning and building experience in a project management/data centric role. 
+
+    # include link to resume(s)
 
 ---
 
