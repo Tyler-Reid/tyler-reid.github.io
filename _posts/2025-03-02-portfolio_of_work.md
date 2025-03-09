@@ -8,9 +8,9 @@ image:
   alt: Data Collection in the Field
 ---
 
-# This page outlines specific projects in my professional work highlighting GIS, Data Analysis, Project Managment and Sensor Maintenance.
+## This page outlines specific projects in my professional work highlighting GIS, Data Analysis, Project Managment and Sensor Maintenance.
 
-  # include link to portfolio doc(s)
+### [Tyler's Portfolio PDF](/assets/docs/Tyler%20Hislop%20Portfolio.pdf)
 
 ---
 

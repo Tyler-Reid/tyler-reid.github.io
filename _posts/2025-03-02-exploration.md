@@ -8,7 +8,7 @@ image:
   alt: Denali Camp 1 - 2021
 ---
 
-# This post talks about my experiences outdoors. I grew up near the mountains in Colorado and have spent many years honing skills in camping, backpacking, skiing, climbing, mountaineering and whitewater. 
+## This post talks about my experiences outdoors. I grew up near the mountains in Colorado and have spent many years honing skills in camping, backpacking, skiing, climbing, mountaineering and whitewater. 
 ---
 
 ![Desktop View](/assets/images/exploration/moose.jpg)

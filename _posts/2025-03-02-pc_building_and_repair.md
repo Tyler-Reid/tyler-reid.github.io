@@ -8,7 +8,7 @@ image:
   alt: Open Bench
 ---
 
-# This page talks about my experience building PCs and repairing computers. I've done several custom PC configurartions and builds and performed complex repair jobs on difficult-to-work-on laptops. 
+## This page talks about my experience building PCs and repairing computers. I've done several custom PC configurartions and builds and performed complex repair jobs on difficult-to-work-on laptops. 
 
 ---
 
