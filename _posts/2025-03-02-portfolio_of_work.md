@@ -8,7 +8,7 @@ image:
   alt: Data Collection in the Field
 ---
 
-# This page outlines specific projects in Tyler's professional work
+# This page outlines specific projects in my professional work highlighting GIS, Data Analysis, Project Managment and Sensor Maintenance.
 ---
 
 ## **Linear Referencing System (LRS)**

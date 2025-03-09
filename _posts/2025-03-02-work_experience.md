@@ -35,7 +35,7 @@ In my next role, I’m looking to continue learning and building experience in a
 <br>
 
 ## **Highway Performance GIS Analyst**
-### 11.21 to 3.24
+### 3.21 to 3.24
 -	Supports Federal Highway Administration's Highway Performance Monitoring System (HPMS)
 -	Collects and curates information regarding extent, condition, performance, use, and operating characteristics of roadways
 -	Familiarity with diverse datasets including traffic volume, traffic class, speed data, travel time reliability, vehicle weight data, temperature data probe, and traffic design 
@@ -47,7 +47,7 @@ In my next role, I’m looking to continue learning and building experience in a
 <br>
 
 ## **Traffic Data Planner**
-### 11.19 - 11.21
+### 11.19 - 3.21
 -	Monitored over 50 Continuous Count Stations: sophisticated network of remote sensors configured to monitor traffic data 
 -	Provided continual analysis of volume, vehicle class, and tracked maintenance issues across sensor network
 -	Assisted the public with targeted traffic data requests, showcasing strong communication and customer service skills.
