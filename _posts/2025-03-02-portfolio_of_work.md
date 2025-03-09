@@ -9,9 +9,12 @@ image:
 ---
 
 # This page outlines specific projects in my professional work highlighting GIS, Data Analysis, Project Managment and Sensor Maintenance.
+
+  # include link to portfolio doc(s)
+
 ---
 
-## **Linear Referencing System (LRS)**
+## **Linear Referencing System (LRS) / Database Management**
 ![Desktop View](/assets/images/projects/LRS.jpg)
 _Full screen width and center alignment_
 
