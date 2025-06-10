@@ -16,7 +16,7 @@ image:
 
 ## **Linear Referencing System (LRS) / Database Management**
 ![Desktop View](/assets/images/projects/LRS.jpg)
-_Full screen width and center alignment_
+_View of Routes in Homer, AK_
 
 In my current role, my team is responsible for maintaining Alaska DOT&PF’s Linear Referencing System (LRS). This is a powerful information model designed to record public roadways and all associated attributes as linear events in GIS.
 Through the LRS, the state can garner insights about our roadways and roadway assets quickly, answering questions such as:
@@ -33,7 +33,7 @@ https://akdot.maps.arcgis.com/home/item.html?id=0642c35270ba418e95dd61756ccf1b7b
 
 ## **Alaska Geospatial Council - Transportation Working Group**
 ![Desktop View](/assets/images/projects/Geocouncil%201.jpg)
-_Full screen width and center alignment_
+_Alaska Geospatial Council Page_
 
 In 2024, I was granted the opportunity to co-chair the Alaska Geospatial Council Transportation Working Group. The goal of this group is to coordinate both public and private efforts across the state to better serve Alaska’s transportation needs.
 The Alaska Geospatial Council is a great opportunity to coordinate with others across Alaska.
@@ -46,7 +46,7 @@ The Transportation Working Group page can be viewed here:
 
 ## **Alaska Winter Sidewalk Maintenance Priority Map**
 ![Desktop View](/assets/images/projects/Winter%20Sidewalks%201.jpg)
-_Full screen width and center alignment_
+_Anchorage Winter Sidewalk Maintenance Priority Map_
 
 At the request of our commissioner, I created a brand new dataset showing the winter maintenance priority levels of sidewalks across Anchorage. This data clearly shows the extent of DOT&PF’s maintenance of sidewalks in Anchorage, and when the public can expect them to be clear after a winter storm.
 This data also enables planners to clearly communicate the level of maintenance needed across our sidewalk network, unlocking new potential for resources. 
@@ -60,7 +60,7 @@ The Anchorage map is public and can be viewed here:
 
 ## **Traffic Sensor Maintenance**
 ![Desktop View](/assets/images/projects/Cabinet.jpg)
-_Full screen width and center alignment_
+_A Traffic Cabinet loaded with Equipment_
 
 In my first two roles with DOT&PF, I was trained in maintenance and calibration of roadside traffic sensors. The continual operation of these sensors was essential to our traffic monitoring program and necessary for federal reporting. 
 
@@ -73,7 +73,7 @@ This work had to be carried out year-round, rain or shine, and often in winter c
 
 ## **Fish Passage Culvert Mapping**
 ![Desktop View](/assets/images/projects/Fish%20Passage%20Points%20w%20Routes.png)
-_Full screen width and center alignment_
+_Fish Passage Culverts in Ketchikan_
 
 At the request of a Regional Planner, I combined Alaska Department of Fish and Game fish passage culvert data with DOT&PF’s road network data. I produced a novel feature class that showed a basic inventory of fish passage culverts along Alaska DOT&PF maintained roadways. 
 Presenting the data in this way enabled the Regional Planner acquire grant money for fish culvert replacement. This grant award allowed new maintenance to occur to the benefit of Alaska and its fish population. 
@@ -88,7 +88,7 @@ News of the award can be seen at Alaska Public Media:
 
 ## **Geospatial Environment Maintenance**
 ![Desktop View](/assets/images/projects/Survey%20123.jpg){: width="640" height="1225" .w-50 .left}
-_Full screen width and center alignment_
+_Survey 123 Form_
 
 When working with ArcGIS Pro, my team faced with workflow slowdowns, crashes and other difficult problems. 
 I made this survey tool to better help us communicate our performance problems. 
@@ -107,7 +107,7 @@ This survey form can be viewed at this URL while on a State of Alaska network co
 
 ## **Workflow Documentation**
 ![Desktop View](/assets/images/projects/HPMS%20Desk%20Manual%20Pic%201.jpg)
-_Full screen width and center alignment_
+_A Desk Manual_
 
 Documentation is very important for teams to coordinate workflows, build efficiency, and help ensure knowledge transfer. Documentation has been an important part of my work at Alaska DOT&PF and I have taken steps to create new documentation in every role to ensure that workflows and processes are clearly communicated to ensure knowledge transfer. 
 Seen in the picture above is an image from the Highway Performance Monitoring System (HPMS) Desk Manual that I started in 2022. This manual has become a living document updated by subsequent members of the team and helps record the complex minutiae of the HPMS workflow.  
@@ -116,7 +116,7 @@ Seen in the picture above is an image from the Highway Performance Monitoring Sy
 
 ## Public Process Information Outreach
 ![Desktop View](/assets/images/projects/STIP%20Dashboard%201%20AMD%202.jpg)
-_Full screen width and center alignment_
+_STIP Dashboard Page_
 
 My team has worked extensively on several dashboard products for use by the public. The most notable are related to Alaska’s Statewide Transportation Improvement Program, or STIP. 
 These dashboards help the public interact with and learn which projects are in the STIP, what they will cost, when they will take place and other information. They are also able to render public comment all within the newest dashboard. 
@@ -129,7 +129,7 @@ Public involvement facilitated in part by these dashboards was recognized by the
 
 ## Data Integration
 ![Desktop View](/assets/images/projects/data_intergration.jpg)
-_Full screen width and center alignment_
+_Data Integration_
 
 Data integration has been a primary duty during my time with Alaska DOT&PF. 
 Examples include:
