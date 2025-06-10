@@ -34,7 +34,7 @@ I'm proud of the clean cabling in the back of my first build. It's tidy and easy
 
 
 ![Desktop View](/assets/images/pc_building/laptop_repair.JPG)
-_Macbook Pro 2017 Dissasembl - No Pokemon were harmed in this laptop repair_
+_Macbook Pro 2017 Dissasembled - No Pokemon were harmed in this laptop repair_
 Sometimes hardware needs maintenance. I performed maintenance on my 2017 Macbook Pro, a notoriously difficult laptop to work on due to its extreme size and highly proprietary components. Jobs included battery replacement and a CPU thermal paste replacment, as seen in the picture above. This job required a complete dissassembly. 
 
 
